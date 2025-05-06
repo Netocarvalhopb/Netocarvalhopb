@@ -1,16 +1,41 @@
-## Hi there 👋
+## Bem-vindo(a) ao meu perfil! 😁
 
-<!--
-**Netocarvalhopb/Netocarvalhopb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Me chamo **Jose Vasconcelos De Carvalho Neto** e sou estudante de **Sistemas para Internet**. Estou começando minha jornada na área de tecnologia e, apesar de estar no início, estou sempre em busca de novos desafios e aprendizados.
 
-Here are some ideas to get you started:
+🌱 **Atualmente, estou aprendendo sobre**:
+- HTML
+- CSS
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Quer entrar em contato?** Fique à vontade para me mandar um e-mail: [netocarvalho@hotmail.com](mailto:netocarvalho@hotmail.com).
+
+---
+
+<div>
+  <a href="https://github.com/Netocarvalhopb">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Netocarvalhopb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Netocarvalhopb&layout=compact&langs_count=6&theme=dracula"/>
+  </a>
+</div>
+
+---
+
+### 📱 **Me siga nas redes sociais!**
+
+  Você pode me encontrar por aqui:
+
+<div>
+  <a href="https://www.instagram.com/jvc.neto" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jose-vasconcelos-42635b351/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+---
+
+### **Agradecimentos**
+
+Obrigado por visitar meu perfil! Estou sempre disposto a aprender, colaborar e trocar ideias sobre tecnologia. Se você tiver algo interessante para compartilhar ou quiser bater um papo, me avise! 😊
+
